@@ -1,0 +1,177 @@
+{"0": {
+    "doc": "よくある質問",
+    "title": "作成中",
+    "content": "このページは現在作成中です。しばらくお待ちください。 . 現在、コンテンツの準備を進めています。もう少々お待ちください。 . ",
+    "url": "/faq.html#%E4%BD%9C%E6%88%90%E4%B8%AD",
+    
+    "relUrl": "/faq.html#作成中"
+  },"1": {
+    "doc": "よくある質問",
+    "title": "よくある質問",
+    "content": " ",
+    "url": "/faq.html",
+    
+    "relUrl": "/faq.html"
+  },"2": {
+    "doc": "導入ガイド",
+    "title": "作成中",
+    "content": "このページは現在作成中です。しばらくお待ちください。 . 現在、コンテンツの準備を進めています。もう少々お待ちください。 . ",
+    "url": "/getting-started.html#%E4%BD%9C%E6%88%90%E4%B8%AD",
+    
+    "relUrl": "/getting-started.html#作成中"
+  },"3": {
+    "doc": "導入ガイド",
+    "title": "導入ガイド",
+    "content": " ",
+    "url": "/getting-started.html",
+    
+    "relUrl": "/getting-started.html"
+  },"4": {
+    "doc": "APIリファレンス",
+    "title": "作成中",
+    "content": "このページは現在作成中です。しばらくお待ちください。 . 現在、コンテンツの準備を進めています。もう少々お待ちください。 . ",
+    "url": "/api-reference/#%E4%BD%9C%E6%88%90%E4%B8%AD",
+    
+    "relUrl": "/api-reference/#作成中"
+  },"5": {
+    "doc": "APIリファレンス",
+    "title": "APIリファレンス",
+    "content": " ",
+    "url": "/api-reference/",
+    
+    "relUrl": "/api-reference/"
+  },"6": {
+    "doc": "DeveloperSEED",
+    "title": "DeveloperSEED ドキュメント",
+    "content": "ようこそ！このサイトでは、DeveloperSEEDの使い方やAPIリファレンス、サポート情報をご案内します。 . ",
+    "url": "/#developerseed-%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88",
+    
+    "relUrl": "/#developerseed-ドキュメント"
+  },"7": {
+    "doc": "DeveloperSEED",
+    "title": "目次",
+    "content": ". | 導入ガイド | インストール方法 | 使用方法 | APIリファレンス | 技術紹介 | よくある質問 | サポート情報 | . ",
+    "url": "/#%E7%9B%AE%E6%AC%A1",
+    
+    "relUrl": "/#目次"
+  },"8": {
+    "doc": "DeveloperSEED",
+    "title": "DeveloperSEED",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"9": {
+    "doc": "インストール方法",
+    "title": "作成中",
+    "content": "このページは現在作成中です。しばらくお待ちください。 . 現在、コンテンツの準備を進めています。もう少々お待ちください。 . ",
+    "url": "/installation.html#%E4%BD%9C%E6%88%90%E4%B8%AD",
+    
+    "relUrl": "/installation.html#作成中"
+  },"10": {
+    "doc": "インストール方法",
+    "title": "インストール方法",
+    "content": " ",
+    "url": "/installation.html",
+    
+    "relUrl": "/installation.html"
+  },"11": {
+    "doc": "サポート情報",
+    "title": "作成中",
+    "content": "このページは現在作成中です。しばらくお待ちください。 . 現在、コンテンツの準備を進めています。もう少々お待ちください。 . ",
+    "url": "/support.html#%E4%BD%9C%E6%88%90%E4%B8%AD",
+    
+    "relUrl": "/support.html#作成中"
+  },"12": {
+    "doc": "サポート情報",
+    "title": "サポート情報",
+    "content": " ",
+    "url": "/support.html",
+    
+    "relUrl": "/support.html"
+  },"13": {
+    "doc": "技術紹介",
+    "title": "技術紹介",
+    "content": "このページでは、サービス開発に利用している、AIツール、フレームワーク、クラウドサービスなどを紹介します。 . ",
+    "url": "/technology-introduction.html",
+    
+    "relUrl": "/technology-introduction.html"
+  },"14": {
+    "doc": "技術紹介",
+    "title": "AI駆動のコード補完ツール",
+    "content": "GitHub Copilot . GitHub Copilotは、OpenAI Codexモデルを基に開発されたAI駆動のコード補完ツールです。さまざまなIDEと統合され、多言語対応のコードサポートを提供します。 . Cursor . Cursorは、効率的なコード編集を可能にするAI支援型エディタです。コード補完や予測編集、ローカルセキュリティ機能を備えています。 . ",
+    "url": "/technology-introduction.html#ai%E9%A7%86%E5%8B%95%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%89%E8%A3%9C%E5%AE%8C%E3%83%84%E3%83%BC%E3%83%AB",
+    
+    "relUrl": "/technology-introduction.html#ai駆動のコード補完ツール"
+  },"15": {
+    "doc": "技術紹介",
+    "title": "AIチャットボット",
+    "content": "Felo . Feloは、情報検索を効率化する多機能AI検索エンジンです。 . | 多言語対応: 言語の壁を越えた情報アクセスを実現。 | 高度な検索機能: 視覚化ツールや特定のドメイン検索をサポート。 | AI技術: ChatGPTベースで、質問意図を理解し最適な情報を提供。 | . ChatGPT . ChatGPTはOpenAIの自然言語処理（NLP）技術を活用したAIチャットボットで、幅広い対話型機能を提供します。 . Mistral AI . Mistral AIは、2023年設立の企業で、最新の大規模言語モデル（LLM）を開発しています。 . | Mistral Large 2: 複雑な推論や多言語対応。 | Pixtral: マルチモーダルな解析ツール。 | Mixtral: コスト効率の高いモデル。 | . ",
+    "url": "/technology-introduction.html#ai%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%83%9C%E3%83%83%E3%83%88",
+    
+    "relUrl": "/technology-introduction.html#aiチャットボット"
+  },"16": {
+    "doc": "技術紹介",
+    "title": "フレームワーク",
+    "content": "Front . Next.js 14 . Reactを基盤としたウェブ開発フレームワークです。 . | Turbopack: 高速な開発を支援。 | 部分プリレンダリング: 高パフォーマンスで動的コンテンツを効率的に提供。 | . Backend . Node.js (Express) . Node.jsは、非同期イベント駆動のJavaScriptランタイムであり、Expressはシンプルなサーバーフレームワークを提供します。 . ",
+    "url": "/technology-introduction.html#%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF",
+    
+    "relUrl": "/technology-introduction.html#フレームワーク"
+  },"17": {
+    "doc": "技術紹介",
+    "title": "クラウドサービス",
+    "content": "Vercel . サーバーレスアーキテクチャを採用し、スケーラブルな環境を提供。 . Supabase . リアルタイムデータベース、認証、ストレージ機能を提供するBaaSプラットフォーム。 . ",
+    "url": "/technology-introduction.html#%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
+    
+    "relUrl": "/technology-introduction.html#クラウドサービス"
+  },"18": {
+    "doc": "技術紹介",
+    "title": "インフラツール",
+    "content": "Docker . 軽量な仮想化と依存関係管理ツールで、アプリケーションの移植性を向上。 . ",
+    "url": "/technology-introduction.html#%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%83%84%E3%83%BC%E3%83%AB",
+    
+    "relUrl": "/technology-introduction.html#インフラツール"
+  },"19": {
+    "doc": "技術紹介",
+    "title": "テストツール",
+    "content": "Jest . Next.js公式推奨の単体テストフレームワークで、モックや非同期テストをサポート。 . Playwright . クロスブラウザのE2Eテストツールで、スクリーンショットや動画キャプチャ機能を搭載。 . ",
+    "url": "/technology-introduction.html#%E3%83%86%E3%82%B9%E3%83%88%E3%83%84%E3%83%BC%E3%83%AB",
+    
+    "relUrl": "/technology-introduction.html#テストツール"
+  },"20": {
+    "doc": "技術紹介",
+    "title": "プロジェクト管理",
+    "content": "Notion . 柔軟なデータベース機能とコラボレーションツールを統合したオールインワンプラットフォーム。 . ",
+    "url": "/technology-introduction.html#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%AE%A1%E7%90%86",
+    
+    "relUrl": "/technology-introduction.html#プロジェクト管理"
+  },"21": {
+    "doc": "技術紹介",
+    "title": "ソースコード管理",
+    "content": "GitHub . Gitベースのバージョン管理システムで、CI/CD機能を統合。 . ",
+    "url": "/technology-introduction.html#%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E7%AE%A1%E7%90%86",
+    
+    "relUrl": "/technology-introduction.html#ソースコード管理"
+  },"22": {
+    "doc": "技術紹介",
+    "title": "IDE",
+    "content": "Cursor . AI補完と編集支援を提供するコードエディタ。 . VSCode . 軽量で拡張性の高いソースコードエディタ。 . ",
+    "url": "/technology-introduction.html#ide",
+    
+    "relUrl": "/technology-introduction.html#ide"
+  },"23": {
+    "doc": "使用方法",
+    "title": "作成中",
+    "content": "このページは現在作成中です。しばらくお待ちください。 . 現在、コンテンツの準備を進めています。もう少々お待ちください。 . ",
+    "url": "/usage.html#%E4%BD%9C%E6%88%90%E4%B8%AD",
+    
+    "relUrl": "/usage.html#作成中"
+  },"24": {
+    "doc": "使用方法",
+    "title": "使用方法",
+    "content": " ",
+    "url": "/usage.html",
+    
+    "relUrl": "/usage.html"
+  }
+}
