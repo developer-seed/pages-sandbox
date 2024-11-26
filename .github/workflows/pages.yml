@@ -18,13 +18,16 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.2  # 使用しているRubyバージョンを指定
+        ruby-version: 3.3  # Gemfileで使用しているRubyバージョンを指定
+        bundler-cache: true # bundlerのキャッシュを有効化
 
     # 依存関係をインストール
     - name: Install dependencies
-      run: |
-        gem install bundler
-        bundle install  # Gemfileから必要なGemをインストール
+      run: bundle install  # Gemfileから必要なGemをインストール
+
+    # just-the-docsテーマをローカルにインストール
+    - name: Install just-the-docs theme
+      run: bundle exec gem install just-the-docs -v 0.10.0
 
     # Jekyllをビルド
     - name: Build the site with Jekyll
