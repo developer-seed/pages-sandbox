@@ -23,7 +23,8 @@ jobs:
     # 依存関係をインストール
     - name: Install dependencies
       run: |
-        bundle install  # bundlerインストールは自動で行われる場合も
+        gem install bundler
+        bundle install  # Gemfileから必要なGemをインストール
 
     # Jekyllをビルド
     - name: Build the site with Jekyll
