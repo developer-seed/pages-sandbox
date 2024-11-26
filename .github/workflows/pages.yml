@@ -31,7 +31,7 @@ jobs:
 
     # Jekyllをビルド
     - name: Build the site with Jekyll
-      run: bundle exec jekyll build
+      run: bundle exec jekyll build --config _config.yml,_config.production.yml
 
     # GitHub Pagesにデプロイ
     - name: Deploy to GitHub Pages
