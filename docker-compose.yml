@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  jekyll:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      # ローカルディレクトリをコンテナ内にマウント
+      - .:/usr/src/app
+      # gemのキャッシュをコンテナと共有
+      - bundle_cache:/usr/local/bundle
+    ports:
+      # Jekyllのサーバー（開発用ポート）
+      - "4000:4000"
+      # LiveReload用ポート
+      - "35729:35729"
+    command: bundle exec jekyll serve --host 0.0.0.0 --watch --force_polling --livereload
+    environment:
+      - JEKYLL_ENV=development
+    stdin_open: true
+    tty: true
+
+volumes:
+  bundle_cache:
