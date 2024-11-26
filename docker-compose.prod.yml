@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  jekyll:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/usr/src/app
+      - bundle_cache:/usr/local/bundle
+    command: bundle exec jekyll build --config _config.yml,_config.production.yml
+    environment:
+      - JEKYLL_ENV=production
+    stdin_open: true
+    tty: true
+
+volumes:
+  bundle_cache:

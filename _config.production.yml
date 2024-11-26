@@ -1,0 +1,10 @@
+baseurl: "/pages-sandbox" # GitHub Pagesのリポジトリ名（サブディレクトリ）に合わせる
+url: "https://developer-seed.github.io" # 公開するサイトのURL
+
+# 本番用に優先度を変更
+jekyll_seo_tag:
+  site_title: "DeveloperSEED"
+
+# プラグイン設定（必要に応じて追加）
+plugins:
+  - jekyll-sitemap
