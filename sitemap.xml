@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/faq.html</loc>
+<loc>https://developer-seed.github.io/pages-sandbox/faq.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/getting-started.html</loc>
+<loc>https://developer-seed.github.io/pages-sandbox/getting-started.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/api-reference/</loc>
+<loc>https://developer-seed.github.io/pages-sandbox/api-reference/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://developer-seed.github.io/pages-sandbox/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/installation.html</loc>
+<loc>https://developer-seed.github.io/pages-sandbox/installation.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/support.html</loc>
+<loc>https://developer-seed.github.io/pages-sandbox/support.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/technology-introduction.html</loc>
+<loc>https://developer-seed.github.io/pages-sandbox/technology-introduction.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/usage.html</loc>
+<loc>https://developer-seed.github.io/pages-sandbox/usage.html</loc>
 </url>
 </urlset>
