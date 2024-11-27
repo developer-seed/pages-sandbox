@@ -113,14 +113,14 @@
   },"16": {
     "doc": "技術紹介",
     "title": "フレームワーク",
-    "content": "Front . Next.js 14 . Reactを基盤としたウェブ開発フレームワークです。 . | Turbopack: 高速な開発を支援。 | 部分プリレンダリング: 高パフォーマンスで動的コンテンツを効率的に提供。 | . Backend . Node.js (Express) . Node.jsは、非同期イベント駆動のJavaScriptランタイムであり、Expressはシンプルなサーバーフレームワークを提供します。 . ",
+    "content": "Front . Next.js 14 . Reactを基盤としたウェブ開発フレームワークです。 . | Turbopack: 高速な開発を支援。 | 部分プリレンダリング: 高パフォーマンスで動的コンテンツを効率的に提供。 | . Backend . Node.js (Express) . Node.jsは、非同期イベント駆動のJavaScriptランタイムであり、Expressはシンプルなサーバーフレームワークを提供します。 . UIライブラリ . Ant Design . Ant Design（AntD）は、エンタープライズ向けWebアプリケーションの開発を効率化するために設計された、ReactベースのUIライブラリです。アリババグループが開発しており、洗練されたデザインと高度にカスタマイズ可能なコンポーネントを提供します。 . ",
     "url": "/pages-sandbox/technology-introduction.html#%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF",
     
     "relUrl": "/technology-introduction.html#フレームワーク"
   },"17": {
     "doc": "技術紹介",
     "title": "クラウドサービス",
-    "content": "Vercel . サーバーレスアーキテクチャを採用し、スケーラブルな環境を提供。 . Supabase . リアルタイムデータベース、認証、ストレージ機能を提供するBaaSプラットフォーム。 . ",
+    "content": "Vercel . サーバーレスアーキテクチャを採用し、スケーラブルな環境を提供。 . Supabase . リアルタイムデータベース、認証、ストレージ機能を提供するBaaSプラットフォーム。 . Render . 静的サイトやAPI、バックエンドサービスをホストするための使いやすいプラットフォーム。 . ",
     "url": "/pages-sandbox/technology-introduction.html#%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9",
     
     "relUrl": "/technology-introduction.html#クラウドサービス"
